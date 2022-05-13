@@ -42,4 +42,32 @@ a:hover{
     font-size: xx-large;
 }
 /* test.html style*/
-
+.quiz{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1rem 10rem;
+    background-color: white;
+    box-shadow: 3px 3px 8px silver;
+    border-radius: 10px;
+}
+.test > input{
+    margin:0rem 0rem 1.5rem 2rem;
+}
+h4{
+    margin-left: 1.5rem;
+}
+.section{
+    margin: 0rem 10rem 0rem 10rem;
+}
+#final{
+    font-size: x-large;
+    color: black;
+    margin: 1rem 0rem 2rem 10rem;
+    text-decoration: none;
+    background-color: blue;
+}
+#final:hover{
+    background-color: blueviolet;
+    font-size: xx-large;
+}
