@@ -1,7 +1,4 @@
-/**{
-    background-color: rgb(229, 226, 226);
-}
-*/
+/*index.html style*/
 body{
     background-color: rgb(241, 241, 241);
 }
@@ -44,3 +41,5 @@ a:hover{
     background-color: blueviolet;
     font-size: xx-large;
 }
+/* test.html style*/
+
