@@ -26,9 +26,12 @@ function result() {
                 score++;
         }
        
-            alert("Your scored" + score +"out of 8");
+            //alert("Your scored " + score +" out of 8");
+            document.write("Your scored " + score +" out of 8");
 }
 function success(){
-    alert("Confirm if you are ready to start the quiz now");
-    //document.write("Confirm if you are ready to start the Test");
+    alert("Are you sure you want to start the test?");
+}
+function grade(){
+
 }
