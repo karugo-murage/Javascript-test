@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(238, 235, 235);
+    font-family: Tahoma, sans-serif;
+    margin: 10px;
+    align-content: ;
+}
+.quiz{
+    background-color: white;
+    box-shadow: 5px 5px 10px silver;
+}
+.test{
+    background-color: white;
+}
+.quiz > h4{
+    background-color: white;
+}
