@@ -7,6 +7,10 @@
 .quiz{
     background-color: white;
     box-shadow: 5px 5px 10px silver;
+    border-radius: 8px;
+    padding: 2px 2px;
+    margin: 20px 0px;
+    border: 1px solid red;
 }
 .test{
     background-color: white;
