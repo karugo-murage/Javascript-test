@@ -1,20 +1,46 @@
-*{
-    background-color: rgb(238, 235, 235);
-    font-family: Tahoma, sans-serif;
-    margin: 10px;
-    align-content: ;
+/**{
+    background-color: rgb(229, 226, 226);
 }
-.quiz{
-    background-color: white;
-    box-shadow: 5px 5px 10px silver;
-    border-radius: 8px;
-    padding: 2px 2px;
-    margin: 20px 0px;
-    border: 1px solid red;
+*/
+body{
+    background-color: rgb(241, 241, 241);
 }
-.test{
+#club{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1rem 25rem;
     background-color: white;
+    box-shadow: 3px 3px 8px silver;
+    border-radius: 10px;
 }
-.quiz > h4{
+img{
+    padding: 1rem 0rem 0rem 4rem;
+    height: 10rem;
+    width: 20rem;
+}
+li::before{content: "•"; 
+    color: rgb(0, 102, 255);
+    size: 100px;
+    padding-right: 1rem;
+}
+li{
     background-color: white;
+    list-style: none ;
+    padding: 1rem 0rem 0rem 0rem;
+}
+.instruct{
+    padding-left: 1rem;
+    margin: 0rem;
+}
+.button1{
+    font-size: x-large;
+    color: black;
+    padding-left: 10rem;
+    text-decoration: none;
+    background-color: blue;
+}
+a:hover{
+    background-color: blueviolet;
+    font-size: xx-large;
 }
