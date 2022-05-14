@@ -10,7 +10,7 @@ This IP is about coding Javascript test with html,css and js. furthermore it gra
 
 ## Technologies used
 HTML and CSS.
-<img src="assets/images/quiz.png" alt="Moringa school landing page" >
+<img src="Assets/images/quiz.png" alt="LIGIONE Club Javascript test." >
 
 ## Support and Contact details
 Email:giddykarugo@gmail.com
