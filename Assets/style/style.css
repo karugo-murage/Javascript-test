@@ -50,6 +50,7 @@ a:hover{
     background-color: white;
     box-shadow: 3px 3px 8px silver;
     border-radius: 10px;
+    border-top: 1rem solid blueviolet;
 }
 .test > input{
     margin:0rem 0rem 1.5rem 2rem;
@@ -59,6 +60,12 @@ h4{
 }
 .section{
     margin: 0rem 10rem 0rem 10rem;
+    background-color: blue;
+    padding: 1rem 2rem;
+}
+.section:hover{
+    background-color: blueviolet;
+    font-size: x-large;
 }
 #final{
     font-size: x-large;
