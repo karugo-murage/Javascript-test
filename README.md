@@ -7,10 +7,12 @@
 ## Description
 This IP is about coding Javascript test with html,css and js. furthermore it grades the student's results.
 
-
 ## Technologies used
-HTML and CSS.
+HTML, Vanilla CSS and Javascript.
 <img src="Assets/images/quiz.png" alt="LIGIONE Club Javascript test." >
+
+## setup and installation instructions
+Click start test when ready, click the ok button for re-confirmation.Submit the quiz when done.
 
 ## Support and Contact details
 Email:giddykarugo@gmail.com
